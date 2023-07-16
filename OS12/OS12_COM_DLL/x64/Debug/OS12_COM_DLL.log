@@ -1,0 +1,9 @@
+﻿  CFactory.cpp
+  dllmain.cpp
+  INSTALL.cpp
+D:\University\OS_Lab12\OS_Lab12\lab12\OS12\OS12_COM\OS12_COM_DLL\INSTALL.cpp(156,27): warning C4267: аргумент: преобразование из "size_t" в "DWORD"; возможна потеря данных
+  INTERFACE.cpp
+  OS12.cpp
+  Создание кода...
+     Создается библиотека D:\University\OS_Lab12\OS_Lab12\lab12\OS12\OS12_COM\x64\Debug\OS12_COM_DLL.lib и объект D:\University\OS_Lab12\OS_Lab12\lab12\OS12\OS12_COM\x64\Debug\OS12_COM_DLL.exp
+  OS12_COM_DLL.vcxproj -> D:\University\OS_Lab12\OS_Lab12\lab12\OS12\OS12_COM\x64\Debug\OS12_COM_DLL.dll

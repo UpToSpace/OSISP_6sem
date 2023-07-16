@@ -1,0 +1,5 @@
+﻿  OS11_04.cpp
+D:\University\осисп\labs\OS11\OS11_HTAPI\HT.h(46,3): warning C4091: __declspec(dllimport): пропускается слева от "HT::HTHANDLE", когда ни одна переменная не объявлена
+D:\University\осисп\labs\OS11\OS11_HTAPI\HT.h(58,3): warning C4091: __declspec(dllimport): пропускается слева от "HT::Element", когда ни одна переменная не объявлена
+D:\University\осисп\labs\OS11\OS11_04\OS11_04.cpp(14,12): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  OS11_04.vcxproj -> D:\University\осисп\labs\OS11\x64\Debug\OS11_04.exe

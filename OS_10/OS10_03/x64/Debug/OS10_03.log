@@ -1,0 +1,4 @@
+﻿  OS10_03.cpp
+     Создается библиотека D:\University\осисп\labs\OS_10\x64\Debug\OS10_03.lib и объект D:\University\осисп\labs\OS_10\x64\Debug\OS10_03.exp
+LINK : warning LNK4217: Символ "??0Element@HT@@QEAA@PEBXH0H@Z (public: __cdecl HT::Element::Element(void const *,int,void const *,int))", определенный в "OS10_HTAPI.lib(HT.obj)", импортирован "OS10_03.obj" в функции "main".
+  OS10_03.vcxproj -> D:\University\осисп\labs\OS_10\x64\Debug\OS10_03.exe

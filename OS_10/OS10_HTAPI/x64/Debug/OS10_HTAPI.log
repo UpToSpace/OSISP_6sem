@@ -1,0 +1,14 @@
+﻿  HT.cpp
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.cpp(28,12): warning C4273: HT::HTHANDLE::HTHANDLE: несовместимое связывание dll
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.h(53,3): message : см. предыдущее определение "{ctor}"
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.cpp(30,12): warning C4273: HT::HTHANDLE::HTHANDLE: несовместимое связывание dll
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.h(54,3): message : см. предыдущее определение "{ctor}"
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.cpp(40,11): warning C4273: HT::Element::Element: несовместимое связывание dll
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.h(73,3): message : см. предыдущее определение "{ctor}"
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.cpp(48,11): warning C4273: HT::Element::Element: несовместимое связывание dll
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.h(74,3): message : см. предыдущее определение "{ctor}"
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.cpp(55,11): warning C4273: HT::Element::Element: несовместимое связывание dll
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.h(75,3): message : см. предыдущее определение "{ctor}"
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.cpp(63,11): warning C4273: HT::Element::Element: несовместимое связывание dll
+D:\University\осисп\labs\OS_10\OS10_HTAPI\HT.h(76,3): message : см. предыдущее определение "{ctor}"
+  OS10_HTAPI.vcxproj -> D:\University\осисп\labs\OS_10\x64\Debug\OS10_HTAPI.lib
